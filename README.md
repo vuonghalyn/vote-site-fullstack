@@ -1,3 +1,3 @@
-#my first full-stack app
+# my first full-stack app
 
-##this is a simple voting site between two options
+## this is a simple voting site between two options
