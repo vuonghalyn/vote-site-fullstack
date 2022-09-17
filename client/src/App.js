@@ -1,8 +1,7 @@
 import _ from "lodash";
-import React, { Component, useState } from "react";
+import React, { useState } from "react";
 import { Button, Card, Divider, Image, Placeholder } from "semantic-ui-react";
-
-import "./App.css";
+import "semantic-ui-css/semantic.min.css";
 
 const cards = [
   {
